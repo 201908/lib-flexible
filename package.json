@@ -23,7 +23,7 @@
     }
   ],
   "scripts": {
-    "compress": "uglifyjs index.js -o index.min.js -c -m"
+    "compress": "uglifyjs index.js -o flexible.min.js -c -m"
   },
   "dependencies": {},
   "devDependencies": {
